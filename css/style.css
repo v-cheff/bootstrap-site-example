@@ -1,0 +1,10 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+.home-bg {
+	min-height: 600px;
+	background: url(../images/city1.jpg) center/cover no-repeat; 
+}
